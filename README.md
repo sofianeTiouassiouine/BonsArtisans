@@ -1,6 +1,6 @@
 # BonsArtisans 
 
-Mongodb est requis afin de lancer lr back.
+Mongodb est requis afin de lancer le back.
 
 Pour lancer la partie Back:
 Depuis un terminal, accéder au dossier racine est taper la commande 'npm install' et ensuite 'npm start'.
