@@ -1,0 +1,25 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.4.2",
+    "axios": "^0.18.0",
+    "material-table": "^1.50.0",
+    "react": "^16.8.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.8.0",
+    "react-facebook-login": "^4.0.1",
+    "react-mui-login-register": "^0.7.3",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "serve": "^9.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
